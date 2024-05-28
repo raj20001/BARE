@@ -1,5 +1,4 @@
 # BARE
-<B>Mystery Shopping Analysis for Coaching Centers<B>
 # Mystery Shopping Analysis for Coaching Centers
 
 This repository contains the analysis and insights derived from a detailed mystery shopping project conducted across various coaching centers in India. The project aimed to evaluate center performance based on visitor feedback, covering aspects from aesthetics to staff interactions.
