@@ -29,7 +29,7 @@ This repository contains the analysis and insights derived from a detailed myste
 
 ## Actionable Recommendations
 
-- **Staff Training:** Focus on enhancing key traits identified as drivers of high satisfaction.
+- **Staff Training:** Focus on enhancing key traits identified as drivers of high satisfaction particulary mandatory Follow-up.
 - **Customer Service:** Implement systematic follow-ups and offer flexible sign-in options.
 - **Website Enhancement:** Improve mobile interface usability and provide clear response times.
 
